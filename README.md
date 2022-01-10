@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Firegram with Firebase
+
+in this project I learn about firebasem how to configuration, add file and get the data with Firestore, storage in firebase
+
+If you want to intall this project, Follow the steps below
+
+Thank you for comming
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
